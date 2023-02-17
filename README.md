@@ -51,7 +51,7 @@
 |    2 | Choose a framework.                              | `Springboot 3.0`, `Angular 14`                                        |
 |    3 | Design your API endpoints.                       | `JPA` (GET, PUT, DELETE, POST)                                        |
 |    4 | Define the data models.                          | **User**: <small>userId, firstName, lastName, email, password</small> |
-|    5 | Develop and test the endpoints.                  | `Swagger`, `Postman`, `H2` (in-memory DB), `JUnit 5`                  |
+|    5 | Develop and test the endpoints.                  | `Swagger`, `Postman`, `H2`, `JUnit 5`                  |
 |    6 | Implement authentication and authorization.      | -                                                                     |
 |    7 | Document the API.                                | `Swagger`                                                             |
 |    8 | Deploy the API.                                  | `AWS`                                                                 |
