@@ -39,7 +39,7 @@
 |               | `username` : sa                             |
 |               | `password` :                                |
 
-### C. Configurations Files
+### C. Configuration Files
 - [SwaggerConfig](src/main/java/com/demo/io/SwaggerConfig.java)
 - [application.properties](src/main/resources/application.properties)
 - [pom.xml](pom.xml)
