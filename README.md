@@ -40,7 +40,7 @@
 |               | `password` :                                |
 
 ### C. Configurations Files
-- [Swagger]()
+- [SwaggerConfig](src/main/java/com/demo/io/SwaggerConfig.java)
 - [application.properties](src/main/resources/application.properties)
 - [pom.xml](pom.xml)
 
