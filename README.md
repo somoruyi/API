@@ -1,9 +1,12 @@
-## API Learning w/ Spring Boot (Data, JPA, REST, MVC, Security, etc.)
+## Zobo-Advisor
+### A. Description 
+Automated investment management service that uses algorithms to create and manage investment portfolios for users.
 
-### A. Getting Started
+### B. Getting Started
 #### 1. Prerequisites
-- [ ] Java 11 or 17
-- [ ] Spring Boot `2.7.9-SNAPSHOT`
+- [ X ] Java 11 or 17
+- [ X ] Spring Boot `2.7.9-SNAPSHOT` (
+    [X] Data, JPA, REST, MVC, Security, etc.)
 - [ ] IntelliJ, STS, Eclipse, etc.
 
 #### 2. Running the Application
@@ -27,7 +30,7 @@
     ```mvn
     mvn dependency:resolve -Dclassifier=javadoc
     ```
-### B. Tools
+### C. Tools
 
 | App           | Link                                        |
 |---------------|---------------------------------------------|
@@ -39,12 +42,12 @@
 |               | `username` : sa                             |
 |               | `password` :                                |
 
-### C. Configuration Files
+### D. Configuration Files
 - [SwaggerConfig](src/main/java/com/demo/io/SwaggerConfig.java)
 - [application.properties](src/main/resources/application.properties)
 - [pom.xml](pom.xml)
 
-### D. Defined Requirements
+### E. Defined Requirements
 | Step | Description                                      | Checkpoints                                                           |
 |-----:|:-------------------------------------------------|:----------------------------------------------------------------------|
 |    1 | Define the purpose and requirements of your API. | **User** (Login & Signup)                                             |
