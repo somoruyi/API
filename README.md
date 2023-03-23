@@ -4,10 +4,10 @@ Automated investment management service that uses algorithms to create and manag
 
 ### B. Getting Started
 #### 1. Prerequisites
-- [ X ] Java 11 or 17
-- [ X ] Spring Boot `2.7.9-SNAPSHOT` (
-    [X] Data, JPA, REST, MVC, Security, etc.)
-- [ ] IntelliJ, STS, Eclipse, etc.
+- [X] Java 11 or 17
+- [X] Spring Boot `2.7.9-SNAPSHOT` (
+    - [X] Data, JPA, REST, MVC, Security
+- [x] IntelliJ, STS, Eclipse, etc.
 
 #### 2. Running the Application
 - To **RUN** the project
